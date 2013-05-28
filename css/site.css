@@ -24,6 +24,7 @@
       .jumbotron h1, h2, h3, h4, h5, h6 {
         font-family: helvetica neue;
         font-weight: 200;
+        text-shadow: 1px 1px #fff;
       }
 
       .jumbotron h1 {
