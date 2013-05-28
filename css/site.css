@@ -57,7 +57,7 @@
       .box {
         background: url('../img/bg-box.png') repeat;
         box-shadow: 0 0 5px #aaa inset;
-        width: 350px;
+        width: 300px;
         margin: auto auto;
         padding: 10px;
         -webkit-border-radius: 5px;
