@@ -18,6 +18,10 @@
         margin: 20px 0;
         text-align: center;
       }
+      .jumbotron img {
+        padding: 0px 0px 9px 0;
+      }
+
       .app img {
         margin-left: -40px;
       }
