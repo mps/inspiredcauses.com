@@ -32,7 +32,7 @@
         /*text-transform: uppercase;*/
         /*font-weight: bold;*/
         letter-spacing: -1.5px;
-        color:#00b79b;
+        color:#ff6055;
         text-shadow: 1px 1px #fff;
       }
       .jumbotron h2 {
@@ -46,7 +46,7 @@
       .jumbotron h3 {
         font-size: 22px;
         line-height: 1;
-        color:#00b79b;
+        color:#ff6055;
       }
       .jumbotron .lead {
         font-size: 24px;
